@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">hw_page1</string>
+    <string name="app_name">CoffeeLovers</string>
     <string name="name">Coffee Lovers</string>
     <string name="email">Почта*</string>
     <string name="forget">Забыли пароль?</string>
@@ -15,7 +15,25 @@
     <string name="O">или</string>
     <string name="share">Share</string>
     <string name="skip">Skip</string>
-        <string name="history">history of coffee.</string>
+    <string name="history">history of coffee.</string>
     <string name="story"><![CDATA[Лишь вXII веке из сырых кофейных зёрен стали готовить напиток, а ещё столетия спустя начали срывать плоды с кофейных деревьев, сушить зёрна, обжаривать и измельчать, а получившийся порошок заливать горячей водой. Арабы добавляли в него различные пряности — имбирь, корицу. Также смешивали напиток с молоком.]]></string>
-
+    <string name="ntxy">В начале XX века немецкий химик Эрдманн выделил из зёрен кофе масло, придающее кофе его аромат, которое он назвал «кафеоль». Эрдманну удалось выделить порядка десяти компонентов кафеоля. В 1967 году американские учёные Ф. Готши и М. Уинтергод с помощью молекулярной дистилляции, спектрофотометрии и газовой хроматографии выделили более 220 компонентов</string>
+    <string name="todoo1">TODO</string>
+    <string name="skip2">Skip</string>
+    <string name="todo2">TODO</string>
+    <string name="recipe"><![CDATA[Инструкция приготовления: 5 минут 1. Насыпать в термос растворимый кофе и сахар, залить теплой водой, закрыть термос и немного потрясти, чтобы все перемешалось. 2. В стакан положить лед, залить кофе. 3. Добавить молока. По желанию добавить сливок несладких сливок или мороженое.]]></string>
+    <string name="skip3">Skip</string>
+    <string name="todoo4">TODO</string>
+    <string name="todoo5">TODO</string>
+    <string name="todoo6">TODO</string>
+    <string name="todoo7">TODO</string>
+    <string name="todoo8">TODO</string>
+    <string name="todoo9">TODO</string>
+    <string name="todo22">TODO</string>
+    <string name="todo23">TODO</string>
+    <string name="todo24">TODO</string>
+    <string name="recipe2">1. В глубокую миску для взбивания добавить сахар и кофе, влить воду, перемешать. 2. Взбивать смесь миксером или ручным венчиком до получения однородного крема карамельного (светло-коричневого) цвета, напоминающего мусс. Точное время зависит от растворимого кофе, обычно 3-7 минут. Корейцы считают, что для правильной пены требуется не меньше 400 движений венчиком. 3. В стакан для подачи (или чашку) налить холодное молоко, по желанию добавить лед. 4. Сверху на молоко ложкой выложить кофейную пену. 5. Перед первым глотком смешать пену с молоком.</string>
+    <string name="todo25">TODO</string>
+    <string name="todo26">TODO</string>
+    <string name="skip4">Skip</string>
 </resources>
