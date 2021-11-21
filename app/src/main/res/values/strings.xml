@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">hw_page1</string>
+    <string name="name"><![CDATA[Coffee Lovers <3]]></string>
+    <string name="email">Почта*</string>
+    <string name="forget">Забыли пароль?</string>
+    <string name="made">Создать аккаунт?</string>
+    <string name="Memory">Запомнить меня?</string>
+    <string name="coffee">Приложение для любителей насладиться безграничным вкусом кофе.</string>
+    <string name="todo">TODO</string>
+    <string name="password">Пароль*</string>
+    <string name="show">Показать больше</string>
+    <string name="email_">bolotbekova_a@auca.kg</string>
+    <string name="todoo">TODO</string>
+    <string name="Todo">TODO</string>
+    <string name="O">или</string>
+</resources>
