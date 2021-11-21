@@ -36,4 +36,14 @@
     <string name="todo25">TODO</string>
     <string name="todo26">TODO</string>
     <string name="skip4">Skip</string>
+    <string name="recipe4">1. Налить молоко в кастрюлю, добавить корицу, варить на слабом огне 5 минут, не доводя до кипения. 2. Заварить кофе в воде любым способом (желательно в турке) и процедить от гущи в случае необходимости. 3. Перелить кофе в чашку для подачи, добавить сахар, перемешать. 4. Влить в кофе молоко с корицей. Перемешать, дать настояться 1-2 минуты.</string>
+    <string name="todo33">TODO</string>
+    <string name="todo34">TODO</string>
+    <string name="todo35">TODO</string>
+    <string name="todo36">TODO</string>
+    <string name="todo37">TODO</string>
+    <string name="skip8">Skip</string>
+    <string name="todo39">TODO</string>
+    <string name="todo40">TODO</string>
+    <string name="todo43">TODO</string>
 </resources>
