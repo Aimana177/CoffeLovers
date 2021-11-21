@@ -116,4 +116,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/line_11" />
 
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="405dp"
+        android:layout_height="270dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginEnd="3dp"
+        android:src="@drawable/_021_11_21_21_27_39"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
