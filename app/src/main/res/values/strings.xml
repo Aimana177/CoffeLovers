@@ -13,4 +13,6 @@
     <string name="todoo">TODO</string>
     <string name="Todo">TODO</string>
     <string name="O">или</string>
+    <string name="share">Share</string>
+    <string name="skip">Skip</string>
 </resources>
