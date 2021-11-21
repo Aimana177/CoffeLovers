@@ -16,7 +16,8 @@
         app:layout_constraintEnd_toStartOf="@+id/imageView8"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/kelsey_on_twitter" />
+        app:srcCompat="@drawable/kelsey_on_twitter"
+        android:contentDescription="@string/todo61" />
 
     <ImageView
         android:id="@+id/imageView6"
@@ -28,7 +29,8 @@
         app:layout_constraintEnd_toStartOf="@+id/imageView8"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
-        app:srcCompat="@drawable/placing_recipes_" />
+        app:srcCompat="@drawable/placing_recipes_"
+        android:contentDescription="@string/todo63" />
 
     <ImageView
         android:id="@+id/imageView8"
@@ -38,7 +40,8 @@
         android:layout_marginEnd="32dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/component_17" />
+        app:srcCompat="@drawable/component_17"
+        android:contentDescription="@string/todo62" />
 
     <ImageView
         android:id="@+id/imageView10"
@@ -50,7 +53,8 @@
         app:layout_constraintEnd_toStartOf="@+id/textView"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView6"
-        app:srcCompat="@drawable/component_18" />
+        app:srcCompat="@drawable/component_18"
+        android:contentDescription="@string/todo91" />
 
     <TextView
         android:id="@+id/textView"
@@ -59,7 +63,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="112dp"
-        android:text="В этом приложении собрана информация о кофе, а также описаны различные способы приготовления. Также, Вы лично можете поделиться своим рецептом вместе со всеми нами."
+        android:text="@string/recipe9"
         android:textColor="@color/black"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imageView10"
@@ -70,7 +74,7 @@
         android:layout_width="141dp"
         android:layout_height="57dp"
         android:layout_marginStart="83dp"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="20dp"
         android:layout_marginEnd="133dp"
         android:background="#8F816C"
         android:text="@string/share"
@@ -92,7 +96,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button"
-        app:srcCompat="@drawable/component_19" />
+        app:srcCompat="@drawable/component_19"
+        android:contentDescription="@string/todo93" />
 
     <Button
         android:id="@+id/button2"
@@ -118,6 +123,7 @@
         app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toEndOf="@+id/button2"
         app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:srcCompat="@drawable/component_16" />
+        app:srcCompat="@drawable/component_16"
+        android:contentDescription="@string/todo92" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

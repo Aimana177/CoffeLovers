@@ -10,14 +10,14 @@
     <string name="password">Пароль*</string>
     <string name="show">Показать больше</string>
     <string name="email_">bolotbekova_a@auca.kg</string>
-    <string name="todoo">TODO</string>
+    <string name="todo57">TODO</string>
     <string name="Todo">TODO</string>
     <string name="O">или</string>
     <string name="share">Share</string>
     <string name="skip">Skip</string>
     <string name="history">history of coffee.</string>
     <string name="story"><![CDATA[Лишь вXII веке из сырых кофейных зёрен стали готовить напиток, а ещё столетия спустя начали срывать плоды с кофейных деревьев, сушить зёрна, обжаривать и измельчать, а получившийся порошок заливать горячей водой. Арабы добавляли в него различные пряности — имбирь, корицу. Также смешивали напиток с молоком.]]></string>
-    <string name="ntxy">В начале XX века немецкий химик Эрдманн выделил из зёрен кофе масло, придающее кофе его аромат, которое он назвал «кафеоль». Эрдманну удалось выделить порядка десяти компонентов кафеоля. В 1967 году американские учёные Ф. Готши и М. Уинтергод с помощью молекулярной дистилляции, спектрофотометрии и газовой хроматографии выделили более 220 компонентов</string>
+    <string name="text3">В начале XX века немецкий химик Эрдманн выделил из зёрен кофе масло, придающее кофе его аромат, которое он назвал «кафеоль». Эрдманну удалось выделить порядка десяти компонентов кафеоля. В 1967 году американские учёные Ф. Готши и М. Уинтергод с помощью молекулярной дистилляции, спектрофотометрии и газовой хроматографии выделили более 220 компонентов</string>
     <string name="todoo1">TODO</string>
     <string name="skip2">Skip</string>
     <string name="todo2">TODO</string>
@@ -46,4 +46,14 @@
     <string name="todo39">TODO</string>
     <string name="todo40">TODO</string>
     <string name="todo43">TODO</string>
+    <string name="todo49">TODO</string>
+    <string name="todo50">TODO</string>
+    <string name="todo52">TODO</string>
+    <string name="todo61">TODO</string>
+    <string name="todo62">TODO</string>
+    <string name="todo63">TODO</string>
+    <string name="recipe9">В этом приложении собрана информация о кофе, а также описаны различные способы приготовления. Также, Вы лично можете поделиться своим рецептом вместе со всеми нами.</string>
+    <string name="todo91">TODO</string>
+    <string name="todo92">TODO</string>
+    <string name="todo93">TODO</string>
 </resources>
