@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">hw_page1</string>
-    <string name="name"><![CDATA[Coffee Lovers <3]]></string>
+    <string name="name">Coffee Lovers</string>
     <string name="email">Почта*</string>
     <string name="forget">Забыли пароль?</string>
     <string name="made">Создать аккаунт?</string>
@@ -15,4 +15,7 @@
     <string name="O">или</string>
     <string name="share">Share</string>
     <string name="skip">Skip</string>
+        <string name="history">history of coffee.</string>
+    <string name="story"><![CDATA[Лишь вXII веке из сырых кофейных зёрен стали готовить напиток, а ещё столетия спустя начали срывать плоды с кофейных деревьев, сушить зёрна, обжаривать и измельчать, а получившийся порошок заливать горячей водой. Арабы добавляли в него различные пряности — имбирь, корицу. Также смешивали напиток с молоком.]]></string>
+
 </resources>
