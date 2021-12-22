@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CoffeeLovers">
         <activity
+            android:name=".MainActivity2"
+            android:exported="true" />
+        <activity
             android:name=".Page7"
             android:exported="true" />
         <activity
